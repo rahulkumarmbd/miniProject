@@ -1,0 +1,21 @@
+.Content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.navbar {
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.navbar img {
+  height: 50px;
+  width: 100px;
+}
+.navbar > div:nth-child(2) {
+  width: 80%;
+}
+.navbar input {
+  width: 100%;
+}
