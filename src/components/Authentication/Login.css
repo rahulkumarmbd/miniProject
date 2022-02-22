@@ -1,0 +1,12 @@
+.LoginForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.LoginForm form{
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 20px;
+}

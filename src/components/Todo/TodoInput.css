@@ -1,0 +1,9 @@
+.TodoInput div{
+    width: 50%;
+    display: flex;
+    margin: 20px auto;
+    gap: 10px;
+}
+.TodoInput button{
+    padding: 20px 40px;
+}

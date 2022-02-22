@@ -1,0 +1,19 @@
+.switch{
+    display: flex;
+    gap: 2%;
+    flex-direction: row-reverse;
+    margin: 0px 10%;
+    margin-top: 10px;
+}
+.switch button{
+    margin: 5px 0px;
+    padding: 8px 15px;
+    border-radius: 10px;
+}
+.switch button{
+    border: 1px solid rgb(0, 247, 255);
+}
+.switch button:hover{
+    background-color: rgb(0, 247, 255);
+    color: white;
+}
